@@ -673,7 +673,7 @@ function Header() {
                                     src='https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/1635139824091137.jpeg?x-expires=1670263200&x-signature=b4mQocYyN6Kda467u1sJ5CRJs%2BY%3D' 
                                     className={cx('user-avatar')} 
                                     alt='nhat'
-                                    fallback="https://scontent-hkt1-1.xx.fbcdn.net/v/t39.30808-6/241561126_629702118029729_8170529577232344788_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=K_9E-WXn98YAX_tMCmH&_nc_ht=scontent-hkt1-1.xx&oh=00_AfDJXGS4pEsFMQrkPb9w8Qegfpldu5F3O4OSIScDoiTZUA&oe=63952DA7"
+                                    fallback='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPBdCYi2v2gXSJfvkxRbNbJPTULS9PG8dJw&usqp=CAU'
                                 />
                             ):(
                                 <button className={cx('more-btn')}>
